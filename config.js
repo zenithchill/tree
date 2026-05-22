@@ -11,8 +11,5 @@ var config = {
 
     // IMPORTANT FORMAT:
     // YYYY-MM-DD HH:MM:SS
-    // Change this to your real date
-    date: "2026-05-23",
-
     names: ["Aman", "Shagun"]
 }
