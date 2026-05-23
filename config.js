@@ -11,6 +11,6 @@ var config = {
 
     // IMPORTANT FORMAT:
     // YYYY-MM-DD HH:MM:SS
-     date: "2025-01-01 05-50-00",
+     date: "2025-01-01 05:51:00",
     names: ["Your Name", "Aman"]
 }
